@@ -1,4 +1,4 @@
-# Medicine-dose-tracker-web-app
+# Medicine dose tracker web app
 A simple medicine dose tracker web app.
 Signup page and API: User can sign up for an account.
 Login page and API:  After signup, the user can log in to their account.
